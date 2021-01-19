@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1>Hi Everyone👋</h1>
 
-<!--
-**vaibhavarora102/vaibhavarora102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Deep Learning and Machine Learning
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate on Machine Learning Libraries
+- 🤔 I’m looking for help with Devops
+- 💬 Ask me about Innovation
+- 📫 How to reach me: aroravaibhav102@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# metrices
+
+<img align="left" alt="Vaibhav Arora's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaibhavarora102&show_icons=true&hide_border=true" /> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavarora102&layout=compact)](https://github.com/vaibhavarora102/github-readme-stats)
+
+
+![GitHub metrics](https://metrics.lecoq.io/vaibhavarora102)  

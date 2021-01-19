@@ -8,7 +8,7 @@
 - 💬 Ask me about Innovation
 - 📫 How to reach me: aroravaibhav102@gmail.com
 
-# metrices
+
 
 <img align="left" alt="Vaibhav Arora's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaibhavarora102&show_icons=true&hide_border=true" /> 
 

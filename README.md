@@ -8,8 +8,6 @@
 - 💬 Ask me about Innovation
 - 📫 How to reach me: aroravaibhav102@gmail.com
 
-![Vaibhav's github activity graph](https://activity-graph.herokuapp.com/graph?username=vaibhavarora102&theme=dracula)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div class="footer" id="top3">

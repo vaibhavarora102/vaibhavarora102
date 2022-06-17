@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Arora</h1>
 <h3 align="center">Learning to upskill </h3>
 
-- 🔭 I’m currently working on Deep Learning and Machine Learning
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Machine Learning Libraries
+- 📝 I'm a final year undergrad at Guru Nanak Dev University, Amritsar pursuing Computer Science and Engineering <br>
+- 🌱 I’m currently working on Deep Learning and Machine Learning
+- 👯 I’m looking to Explore on Machine Learning Libraries
 - 🤔 I’m looking for help with Devops
 - 💬 Ask me about Innovation
 - 📫 How to reach me: aroravaibhav102@gmail.com
@@ -35,11 +35,10 @@
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"></code>
 <br>
 <hr/>
+<p align="center" >
 
+  <img width="48%" src='https://github-readme-stats.vercel.app/api?username=vaibhavarora102&show_icons=true&theme=radical&count_private=true'/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavarora102&count_private=true&theme=radical" alt="aroravaibhav102" />
 
-<img align="left" src='https://github-readme-stats.vercel.app/api?username=vaibhavarora102&show_icons=true&theme=radical&count_private=true'/>
 </p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavarora102&count_private=true&theme=radical" alt="mostlypanda" />
 
-
-![GitHub metrics](https://metrics.lecoq.io/vaibhavarora102)  
